@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cb453a2-a948-4e76-ad69-dfe45261c080" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Air-Quality-Prediction-Final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_forest_regression_model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/AQI/aqi2013.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/AQI/aqi2014.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/AQI/aqi2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/AQI/aqi2016.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/AQI/aqi2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/AQI/aqi2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2013/9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2014/9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2015/9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2016/9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2017/9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Html_Data/2018/9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Real-Data/Real_Combine.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Real_Combine.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Real-Data/real_2013.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Real-Data/real_2014.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Real-Data/real_2015.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Real-Data/real_2016.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decision Tree .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extract_combine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/Html_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear Regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plot_AQI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random Forest, Xgboost and Knn Regressor.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ridge and Lasso Regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataextractfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomforest.pkl" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MOHAMMADIKRAM03&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:MOHAMMADIKRAM03/Air-Quality-Prediciton.git",
+    "accountId": "b1c83c03-1387-4e45-a44c-c18926e9be9a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nCOGwSxcTBYuJBMaG2pkbzJYwH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.Html_script.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_model.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Attendance-Management-system-using-face-recognition&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\PycharmProjects\Air-Quality-Prediction-Final\static" />
+      <recent name="C:\Users\ASUS\PycharmProjects\Air-Quality-Prediction-Final" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train_model">
+    <configuration name="Html_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Air-Quality-Prediction-Final" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Html_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Air-Quality-Prediction-Final" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Air-Quality-Prediction-Final" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_model" />
+        <item itemvalue="Python.Html_script" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cb453a2-a948-4e76-ad69-dfe45261c080" name="Changes" comment="" />
+      <created>1728473498887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728473498887</updated>
+    </task>
+    <servers />
+  </component>
+</project>
