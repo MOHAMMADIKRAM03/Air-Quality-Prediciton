@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Quality Prediction</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+</head>
+<body>
+    <div class="wrap">
+        <div class="container">
+            <!-- Cloud animation background -->
+            <div id="cloud-intro"></div>
+
+            <div class="box">
+                <!-- Remove smoke class to remove smoke animation -->
+            </div>
+
+            <!-- Air Quality Prediction Form -->
+            <div class="container mt-5">
+                <h1 class="text-center mt-5">Air Quality Prediction</h1>
+                <p class="text-center">Predict the air quality index based on various environmental parameters.</p>
+
+                <!-- Form to take inputs -->
+                <form action="/predict" method="POST" class="mt-4">
+                    <div class="form-group">
+                        <label for="T">Temperature (T)</label>
+                        <input type="number" class="form-control" id="T" name="T" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="TM">Maximum Temperature (TM)</label>
+                        <input type="number" class="form-control" id="TM" name="TM" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="Tm">Minimum Temperature (Tm)</label>
+                        <input type="number" class="form-control" id="Tm" name="Tm" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="SLP">Sea Level Pressure (SLP)</label>
+                        <input type="number" class="form-control" id="SLP" name="SLP" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="H">Humidity (H)</label>
+                        <input type="number" class="form-control" id="H" name="H" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="VV">Visibility (VV)</label>
+                        <input type="number" step="any" class="form-control" id="VV" name="VV" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="V">Wind Speed (V)</label>
+                        <input type="number" step="any" class="form-control" id="V" name="V" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="VM">Wind Max Speed (VM)</label>
+                        <input type="number" class="form-control" id="VM" name="VM" required>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary btn-block">Predict Air Quality</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div id="footer">
+        <div class="wrapper">
+            <a href="https://andreasvirkus.github.io">
+                <div class="logo">
+                    <div class="element logo-text pre-test" id="sdew_1"><p>a</p></div>
+                    <div class="element logo-text pre-test selected" id="sdew_2"><p>J</p></div>
+                    <div class="element logo-text pre-test" id="sdew_3"><p>v</p></div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</body>
+</html>
